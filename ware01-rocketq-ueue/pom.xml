@@ -11,6 +11,7 @@
     <packaging>jar</packaging>
     <groupId>com.boot.rocket.queue</groupId>
     <artifactId>ware01-rocket-queue</artifactId>
+    <description>SpringBoot集成RocketMq</description>
 
     <dependencies>
         <dependency>
