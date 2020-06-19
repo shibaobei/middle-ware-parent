@@ -13,6 +13,7 @@ import javax.annotation.Resource;
 
 /**
  * Created by Administrator on 2020/6/19 0019.
+ * RocketMQ 消费者者配置
  */
 @Configuration
 public class ConsumerConfig {

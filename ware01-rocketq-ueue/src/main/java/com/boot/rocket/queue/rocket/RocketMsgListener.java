@@ -13,6 +13,7 @@ import java.util.List;
 
 /**
  * Created by Administrator on 2020/6/19 0019.
+ * RocketMQ 消费者监听器配置
  */
 @Component
 public class RocketMsgListener implements MessageListenerConcurrently{
